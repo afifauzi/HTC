@@ -15,4 +15,5 @@ computer vision and twitter sentiment analysis
 5. Train the data using YOLOv5 small model. 
 6. Tuning hyperparameter: image size and epochs.
 7. Found out that img=640 and epochs=100 give a good detection already.
-8. For the futher research, can try add more different samples as train data. Recommended by ultralytics is >=1500 samples and define epochs >= 500. 
+8. For the futher research, can try add more different samples as train data. 
+9. Recommended by ultralytics: Images per class.≥ 1500 images per class. Start with 300 epochs and increase it. (Due to the time constrain and my personal laptop specs limitation, did not manage to follow the recommendation by them)
