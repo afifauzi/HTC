@@ -7,7 +7,7 @@ computer vision and twitter sentiment analysis
 
 - The best train model details for Question 1 is in exp18 folder.
 
-- Brief explaination for Question 1:
+## Brief explaination for Question 1:
 1. Find the logo centre coordinate, width and height logo using Paints app.
 2. Build train and test dataset. Then, put in the respective train and test folder.
 3. Sample 1 and Sample 2 would be train data. I duplicate it 20 times each sample.
